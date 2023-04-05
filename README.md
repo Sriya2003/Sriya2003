@@ -2,13 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Siyarani Patro</h1>
 <h3 align="center">A passionate Data Scientists from India</h3>
+<img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-<img align="right" alt="coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriya2003&label=Profile%20views&color=0e75b6&style=flat" alt="sriya2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriya2003" alt="sriya2003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sriyaranipatro" target="blank"><img src="https://img.shields.io/twitter/follow/sriyaranipatro?logo=twitter&style=for-the-badge" alt="sriyaranipatro" /></a> </p>
 
 - 🔭 I’m currently working on **As a Freelancer**
 
@@ -20,7 +15,7 @@
 
 - 📫 How to reach me **siyaranipatro@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
