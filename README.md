@@ -1,4 +1,4 @@
-![logo](https://github.com/Sriya2003/Sriya2003/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpg)
+![logo](https://github.com/Sriya2003/Sriya2003/blob/main/Data-Analytics)
 
 <h1 align="center">Hi 👋, I'm Siyarani Patro</h1>
 <h3 align="center">A passionate Data Scientists from India</h3>
